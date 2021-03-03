@@ -7,6 +7,7 @@ This repository contains the pratical work, projects that I had the opportunity 
 ### Optimization for Data Science 
 
 This course was taught by A. Gramfort (Inria) and R.Gower (Telecom ParisTech)
+
 The pratical work consisted in : 
 * 4 Labs to cope with the course content 
 * 1 project
@@ -16,6 +17,7 @@ The pratical work consisted in :
 ### Markov Chain Monte Carlo : Theory and applications
 
 This course was taught by R. Douc and S. Le Corff
+
 The pratical work consisted in working on an article through an analysis, discussion and implementation
 
 *More information are available in the dedicated folder* 
@@ -23,6 +25,7 @@ The pratical work consisted in working on an article through an analysis, discus
 ### Deep Learning I
 
 This course was taught by G. Peeters and A. Newson (Telecom ParisTech)
+
 The pratical work consisted in 3 labs respectively on Multi Layer Perceptron, Recurrent Neural Network and Convolutionnal Neural Network
 
 *More information are available in the dedicated folder* 
@@ -30,6 +33,7 @@ The pratical work consisted in 3 labs respectively on Multi Layer Perceptron, Re
 ### Data Camp
 
 This course was taught by A. Gramfort and T. Moreau (Inria)
+
 The pratical work consisted in 2 projects : 
 * One personnal project where the goal was to propose a solution to a given Data Science challenge
 * One group project where the goal was to propose a Data Science challenge
@@ -41,6 +45,7 @@ The pratical work consisted in 2 projects :
 ### Computer Vision
 
 This course was taught by A. Newson (Telecom ParisTech)
+
 The pratical work consisted in : 
 * 2 Labs to cope with the course content 
 
@@ -49,6 +54,7 @@ The pratical work consisted in :
 ### Reinforcement Learning 
 
 This course was taught by E. Le Pennec (Polytechnique)
+
 The pratical work consisted in working on an article through an analysis, discussion and implementation
 
 *More information are available in the dedicated folder* 

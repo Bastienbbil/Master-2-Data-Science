@@ -1,1 +1,1 @@
-# Master-2-Data-Science - IP-Paris
+# Master-2-Data-Science - IP Paris

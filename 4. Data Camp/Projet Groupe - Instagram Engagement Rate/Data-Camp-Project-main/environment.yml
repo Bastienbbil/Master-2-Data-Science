@@ -1,0 +1,20 @@
+name: ramp-brevet
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - gensim
+  - re
+  - nltk
+  - langid
+  - googletrans
+  - string
+  - tabulate
+  - pip:
+      - ramp-workflow

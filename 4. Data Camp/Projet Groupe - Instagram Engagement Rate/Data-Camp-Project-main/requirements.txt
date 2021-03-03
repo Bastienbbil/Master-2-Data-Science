@@ -1,0 +1,13 @@
+numpy
+matplotlib
+sklearn
+pandas
+jupyter
+ramp-workflow
+seaborn
+gensim
+re
+nltk
+langid
+googletrans
+string

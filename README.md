@@ -10,18 +10,21 @@ This course was taught by A. Gramfort (Inria) and R.Gower (Telecom ParisTech)
 The pratical work consisted in : 
 * 4 Labs to cope with the course content 
 * 1 project
+
 *More information are available in the dedicated folder*
 
 ### Markov Chain Monte Carlo : Theory and applications
 
 This course was taught by R. Douc and S. Le Corff
 The pratical work consisted in working on an article through an analysis, discussion and implementation
+
 *More information are available in the dedicated folder* 
 
 ### Deep Learning I
 
 This course was taught by G. Peeters and A. Newson (Telecom ParisTech)
 The pratical work consisted in 3 labs respectively on Multi Layer Perceptron, Recurrent Neural Network and Convolutionnal Neural Network
+
 *More information are available in the dedicated folder* 
 
 ### Data Camp
@@ -30,6 +33,7 @@ This course was taught by A. Gramfort and T. Moreau (Inria)
 The pratical work consisted in 2 projects : 
 * One personnal project where the goal was to propose a solution to a given Data Science challenge
 * One group project where the goal was to propose a Data Science challenge
+
 *More information are available in the dedicated folder* 
 
 ## Courses between November and January 
@@ -39,10 +43,12 @@ The pratical work consisted in 2 projects :
 This course was taught by A. Newson (Telecom ParisTech)
 The pratical work consisted in : 
 * 2 Labs to cope with the course content 
+
 *More information are available in the dedicated folder*
 
 ### Reinforcement Learning 
 
 This course was taught by E. Le Pennec (Polytechnique)
 The pratical work consisted in working on an article through an analysis, discussion and implementation
+
 *More information are available in the dedicated folder* 

@@ -1,5 +1,5 @@
 # Data Camp Course 
-------------------
+
 This course was taught by A. Gramfort and T. Moreau (Inria)
 
 The pratical work consisted in 2 projects :
